@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- coloring for delay chips -->
+    <color name="delay_short">#FFC107</color>
+    <color name="delay_long">#FB8C00</color>
+    <color name="delay_very_long">#E53935</color>
+    <color name="delay_none">#9E9E9E</color>
+    <color name="delay_text">#000000</color>
+</resources>
